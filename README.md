@@ -10,5 +10,6 @@ An application that draws fractal-like shapes using recursion.
    3. countShaptes() method
    4. draw() method
 
-
+## In-Depth Academic Project description
+   http://flepeint.ccfaculty.org/java143/hw3.html
 
